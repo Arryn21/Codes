@@ -4,19 +4,6 @@ Money Split Program
 Coded by Arryn Rex
 """
 
-#
-# person = int(input("Enter No. of persons: "))
-# l = []
-# cost = []
-# for i in range(person):
-#     cost.append(input("Name of person: "))
-#     while cost != "0":
-#         cost.append(input("Enter cost: "))
-#         break
-#     l.append(cost)
-#
-# print(l)
-
 
 v = {"uber": 130, "auto": 50, "train": 1800, "sing": 160}
 lv = (26, 10, 360, 120, 362, 112, 57, 20, 8, 37.5, 164, 200, 120, 30)
